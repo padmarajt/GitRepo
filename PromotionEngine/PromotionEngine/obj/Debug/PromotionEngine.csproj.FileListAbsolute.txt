@@ -1,0 +1,9 @@
+G:\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+G:\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+G:\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+G:\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache
+G:\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+G:\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
+G:\TFS\PadmarajProjects\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+G:\TFS\PadmarajProjects\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+G:\TFS\PadmarajProjects\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb

@@ -1,0 +1,4 @@
+Promotion Engine project is to add promotion discount on order products at checkout.
+
+For now promotion packages are added as hard code in method "GetPromotionPackages()" but can be populated from repository or any 
+and on checkout promotions are applied based on promotion packages added.
